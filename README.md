@@ -10,9 +10,12 @@ Code Screenshots:
 (main)
 ![](https://github.com/BradyMaes1/Assignment-3-303/blob/main/303assignment3main1.PNG)
 
+
 (cpp)
 ![](https://github.com/BradyMaes1/Assignment-3-303/blob/main/303assignment3cpp1.PNG)
+
 ![](https://github.com/BradyMaes1/Assignment-3-303/blob/main/303assignment3cpp2.PNG)
+
 
 (header)
 ![](https://github.com/BradyMaes1/Assignment-3-303/blob/main/303assignment3header.PNG)
@@ -20,12 +23,17 @@ Code Screenshots:
 
 Output Screenshots:
 ![](https://github.com/BradyMaes1/Assignment-3-303/blob/main/303assignment3output1.PNG)
+
 ![](https://github.com/BradyMaes1/Assignment-3-303/blob/main/303assignment3output2.PNG)
+
 ![](https://github.com/BradyMaes1/Assignment-3-303/blob/main/303assignment3output3.PNG)
+
 ![](https://github.com/BradyMaes1/Assignment-3-303/blob/main/303assignment3output4.PNG)
 
 
 Pictures of Questions 3 & 4:
 ![](https://github.com/BradyMaes1/Assignment-3-303/blob/main/303assignment3Written1.PNG)
+
 ![](https://github.com/BradyMaes1/Assignment-3-303/blob/main/303assignment3Written2.PNG)
+
 ![](https://github.com/BradyMaes1/Assignment-3-303/blob/main/303assignment3Written3.PNG)
