@@ -22,6 +22,7 @@ Code Screenshots:
 
 
 Output Screenshots:
+
 ![](https://github.com/BradyMaes1/Assignment-3-303/blob/main/303assignment3output1.PNG)
 
 ![](https://github.com/BradyMaes1/Assignment-3-303/blob/main/303assignment3output2.PNG)
@@ -32,6 +33,7 @@ Output Screenshots:
 
 
 Pictures of Questions 3 & 4:
+
 ![](https://github.com/BradyMaes1/Assignment-3-303/blob/main/303assignment3Written1.PNG)
 
 ![](https://github.com/BradyMaes1/Assignment-3-303/blob/main/303assignment3Written2.PNG)
